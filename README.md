@@ -1,1 +1,1 @@
-[# web2.0](https://birthda-wish.vercel.app/)
+[# birthda-wishes](https://birthda-wish.vercel.app/)
